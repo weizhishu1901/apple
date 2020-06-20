@@ -15,9 +15,9 @@
                </dict>   
            </array>   
            <key>metadata</key>   
-           <dict>   
+           <dict>
                <key>bundle-identifier</key>   
-               <string>应用程序中的<span style="font-family:FangSong_GB2312">bundle-identifier</span><span style="font-family:FangSong_GB2312"></string></span>   
+               <string>com.sx.supervisor.dianjian</string> 
                <key>bundle-version</key>   
                <string>版本号</string>   
                <key>kind</key>   
